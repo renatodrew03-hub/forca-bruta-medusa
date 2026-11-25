@@ -51,6 +51,6 @@ forca-bruta-medusa/
 - Serviços legados (FTP em texto claro, SMBv1) são alvos triviais; a mitigação real passa por desativar serviços desnecessários, não só por "senhas fortes".
 - Ver `mitigacoes.md` para as recomendações completas.
 
-## Autor
+Renato Medeiros Santos
 
 Projeto desenvolvido como parte dos estudos práticos em Segurança da Informação (SOC/NOC), como laboratório pessoal.
